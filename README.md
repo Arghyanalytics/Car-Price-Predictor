@@ -1,2 +1,2 @@
 # Car-Price-Predictor
-Analyze a 'quikr_car' dataset and predict the price of a used car.
+Analyze a 'quikr_car' dataset by cleaning the data using pandas and predict the price of a used car using Linear Regression Model with r2_score=0.89.
